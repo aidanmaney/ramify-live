@@ -1,6 +1,6 @@
 {
-  "version": "6b28c0511fb02f27",
-  "download": 47020350,
+  "version": "68d8182d2a3b9938",
+  "download": 47020442,
   "files": {
     "worker.js": {
       "bytes": 9997,
@@ -15,8 +15,8 @@
       "gzBytes": 2825
     },
     "live.wasm.gz": {
-      "bytes": 68899061,
-      "gzBytes": 13908818
+      "bytes": 68898693,
+      "gzBytes": 13908910
     },
     "init.tar.gz": {
       "bytes": 87548928,
