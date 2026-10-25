@@ -1,10 +1,10 @@
 {
-  "version": "167e66361bd191a6",
-  "download": 47020908,
+  "version": "09b755043fce18e7",
+  "download": 47021518,
   "files": {
     "worker.js": {
-      "bytes": 10463,
-      "gzBytes": 10463
+      "bytes": 11073,
+      "gzBytes": 11073
     },
     "live.js": {
       "bytes": 114827,
