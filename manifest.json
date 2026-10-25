@@ -1,22 +1,22 @@
 {
-  "version": "09b755043fce18e7",
-  "download": 47021518,
+  "version": "011306712486dc1c",
+  "download": 45684863,
   "files": {
     "worker.js": {
       "bytes": 11073,
       "gzBytes": 11073
     },
     "live.js": {
-      "bytes": 114827,
-      "gzBytes": 114827
+      "bytes": 110450,
+      "gzBytes": 110450
     },
     "live.worker.js": {
       "bytes": 2825,
       "gzBytes": 2825
     },
     "live.wasm.gz": {
-      "bytes": 68898693,
-      "gzBytes": 13908910
+      "bytes": 62950744,
+      "gzBytes": 12576632
     },
     "init.tar.gz": {
       "bytes": 87548928,
