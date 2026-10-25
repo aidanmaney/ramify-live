@@ -1,26 +1,31 @@
 {
-  "version": "011306712486dc1c",
-  "download": 45684863,
+  "version": "3113d97a2a4c69ce",
+  "download": 45689240,
   "files": {
     "worker.js": {
-      "bytes": 11073,
-      "gzBytes": 11073
+      "bytes": 15450,
+      "gzBytes": 15450,
+      "hash": "c2c60a2ab362884b"
     },
     "live.js": {
       "bytes": 110450,
-      "gzBytes": 110450
+      "gzBytes": 110450,
+      "hash": "91d3ecc217a9490d"
     },
     "live.worker.js": {
       "bytes": 2825,
-      "gzBytes": 2825
+      "gzBytes": 2825,
+      "hash": "585c5366e212d969"
     },
     "live.wasm.gz": {
       "bytes": 62950744,
-      "gzBytes": 12576632
+      "gzBytes": 12576632,
+      "hash": "06cea8cbe84e9ab1"
     },
     "init.tar.gz": {
       "bytes": 87548928,
-      "gzBytes": 32983883
+      "gzBytes": 32983883,
+      "hash": "3d745679969f27d5"
     }
   }
 }
